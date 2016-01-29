@@ -1,6 +1,7 @@
 {
   "Image Path Prefix": "",
   "Show PDF?": "Yes",
+  "Local or Remote File": "local",
   "File Path Prefix": "",
   "File Path Attr": "full_path",
   "Show Webpage?": "No",
