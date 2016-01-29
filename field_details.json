@@ -32,6 +32,15 @@
     "Form Params": "formatted_name",
     "Location": "0"
   },{
+      "Field Name": "folders",
+      "Human Readable Name": "Folders",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "english",
+      "Form Params": "folders",
+      "Location": "6",
+      "Icon": "analysis"
+    },{
     "Field Name": "filetype",
     "Human Readable Name": "File Type",
     "Type": "String",
