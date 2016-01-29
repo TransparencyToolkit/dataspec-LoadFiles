@@ -1,0 +1,74 @@
+{
+    "Facet": [
+	"filetype",
+	"author",
+	"creator",
+	"producer",
+	"keywords"
+  ],
+    "Merge Categorical": [
+    ],
+    "Searchable": [
+	"text",
+	"full_path",
+	"rel_path",
+	"formatted_name",
+	"filetype",
+	"author",
+	"creator",
+	"producer",
+	"title",
+	"subject",
+	"date",
+	"keywords",
+	"length"
+	],
+    "In Search Results": [
+	"text",
+	"rel_path",
+	"formatted_name",
+	"filetype",
+	"author",
+	"creator",
+	"producer",
+	"title",
+	"subject",
+	"date",
+	"keywords",
+	"length"
+	],
+    "In Search Results by Default": [
+	"text",
+	"rel_path",
+	"formatted_name",
+	"filetype",
+	"author",
+	"creator",
+	"producer",
+	"title",
+	"subject",
+	"date",
+	"keywords",
+	"length"
+  ],
+    "On Doc Page": [
+	"text",
+	"full_path",
+	"rel_path",
+	"formatted_name",
+	"filetype",
+	"author",
+	"creator",
+	"producer",
+	"title",
+	"subject",
+	"date",
+	"keywords",
+	"length"
+  ],
+  "Item Field": [
+  ],
+    "Truncate Text": [
+	"text"
+  ]
+}

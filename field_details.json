@@ -1,0 +1,122 @@
+[
+  {
+    "Field Name": "text",
+    "Human Readable Name": "Text",
+    "Type": "String",
+    "Form Params": "text",
+      "Location": "3",
+      "Form Params": "text",
+    "Display Type": "Long Text",
+    "Icon": "analysis"
+  },{
+    "Field Name": "full_path",
+    "Human Readable Name": "Full Path",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "not-analyzed",
+    "Form Params": "full_path",
+    "Location": "4",
+    "Icon": "building"
+  },{
+    "Field Name": "rel_path",
+    "Human Readable Name": "Relative PAth",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "not-analyzed",
+    "Form Params": "rel_path",
+    "Location": "5",
+    "Icon": "countries"
+  },{
+    "Field Name": "formatted_name",
+    "Human Readable Name": "File Name",
+    "Type": "String",
+    "Display Type": "Title",
+    "Mapping": "english",
+    "Form Params": "formatted_name",
+    "Location": "0",
+    "Icon": "countries"
+  },{
+    "Field Name": "filetype",
+    "Human Readable Name": "File Type",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "filetype",
+    "Location": "7",
+    "Icon": "document"
+  },{
+      "Field Name": "author",
+      "Human Readable Name": "Author",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "english",
+      "Form Params": "author",
+      "Location": "8",
+      "Icon": ""
+  },
+    {
+    "Field Name": "creator",
+    "Human Readable Name": "Creator",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "creator",
+    "Location": "8",
+    "Icon": "progress"
+    },{
+    "Field Name": "producer",
+    "Human Readable Name": "Producer",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Form Params": "producer",
+    "Location": "9",
+    "Icon": "work"
+  },{
+    "Field Name": "title",
+    "Human Readable Name": "Title",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "english",
+    "Form Params": "title",
+    "Location": "15",
+    "Icon": "survey"
+  },{
+    "Field Name": "subject",
+    "Human Readable Name": "Subject",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "english",
+    "Form Params": "subject",
+    "Location": "16",
+    "Icon": "calendar"
+  },{
+    "Field Name": "date",
+    "Human Readable Name": "Date",
+    "Type": "String",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Form Params": ["date", "end_date"],
+    "Location": "17",
+    "Icon": ""
+  },{
+      "Field Name": "keywords",
+      "Human Readable Name": "Keywords",
+      "Type": "String",
+      "Display Type": "Category",
+      "Mapping": "english",
+      "Form Params": "path",
+      "Location": "17",
+      "Icon": ""
+  },
+    {
+    "Field Name": "length",
+    "Human Readable Name": "Length",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "not_analyzed",
+    "Form Params": "length",
+    "Location": "18",
+    "Icon": "server"
+  }
+]
