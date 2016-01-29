@@ -6,26 +6,23 @@
     "Form Params": "text",
       "Location": "3",
       "Form Params": "text",
-    "Display Type": "Long Text",
-    "Icon": "analysis"
+    "Display Type": "Long Text"
   },{
     "Field Name": "full_path",
     "Human Readable Name": "Full Path",
     "Type": "String",
     "Display Type": "Short Text",
-    "Mapping": "not-analyzed",
+    "Mapping": "not_analyzed",
     "Form Params": "full_path",
-    "Location": "4",
-    "Icon": "building"
+    "Location": "4"
   },{
     "Field Name": "rel_path",
     "Human Readable Name": "Relative PAth",
     "Type": "String",
     "Display Type": "Short Text",
-    "Mapping": "not-analyzed",
+    "Mapping": "not_analyzed",
     "Form Params": "rel_path",
-    "Location": "5",
-    "Icon": "countries"
+    "Location": "5"
   },{
     "Field Name": "formatted_name",
     "Human Readable Name": "File Name",
@@ -33,8 +30,7 @@
     "Display Type": "Title",
     "Mapping": "english",
     "Form Params": "formatted_name",
-    "Location": "0",
-    "Icon": "countries"
+    "Location": "0"
   },{
     "Field Name": "filetype",
     "Human Readable Name": "File Type",
@@ -52,7 +48,7 @@
       "Mapping": "english",
       "Form Params": "author",
       "Location": "8",
-      "Icon": ""
+      "Icon": "social"
   },
     {
     "Field Name": "creator",
@@ -79,8 +75,7 @@
     "Display Type": "Short Text",
     "Mapping": "english",
     "Form Params": "title",
-    "Location": "15",
-    "Icon": "survey"
+    "Location": "15"
   },{
     "Field Name": "subject",
     "Human Readable Name": "Subject",
@@ -88,8 +83,7 @@
     "Display Type": "Short Text",
     "Mapping": "english",
     "Form Params": "subject",
-    "Location": "16",
-    "Icon": "calendar"
+    "Location": "16"
   },{
     "Field Name": "date",
     "Human Readable Name": "Date",
@@ -97,8 +91,7 @@
     "Display Type": "Date",
     "Mapping": "not_analyzed",
     "Form Params": ["date", "end_date"],
-    "Location": "17",
-    "Icon": ""
+    "Location": "17"
   },{
       "Field Name": "keywords",
       "Human Readable Name": "Keywords",
@@ -106,8 +99,7 @@
       "Display Type": "Category",
       "Mapping": "english",
       "Form Params": "path",
-      "Location": "17",
-      "Icon": ""
+      "Location": "17"
   },
     {
     "Field Name": "length",
@@ -116,7 +108,6 @@
     "Display Type": "Short Text",
     "Mapping": "not_analyzed",
     "Form Params": "length",
-    "Location": "18",
-    "Icon": "server"
+    "Location": "18"
   }
 ]
