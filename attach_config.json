@@ -2,8 +2,8 @@
   "Image Path Prefix": "",
   "Show PDF?": "Yes",
   "Local or Remote File": "local",
-  "File Path Prefix": "",
-  "File Path Attr": "full_path",
+  "File Path Prefix": "/home/shidash/PI/small_test_data",
+  "File Path Attr": "rel_path",
   "Show Webpage?": "No",
   "Web URL": ""
 }

@@ -1,6 +1,6 @@
 {
   "Path Type": "Directory",
-  "Path": "/home/shidash/Data/KG/testfile_LoadFiles",
+  "Path": "/home/shidash/Data/KG/filetest_LoadFiles",
   "Index Name": "file_docs",
   "Dataset Name": "Document",
   "Ignore Dir Import Ext": "_terms.json",
