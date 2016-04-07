@@ -5,5 +5,6 @@
   "File Path Prefix": "/home/shidash/PI/small_test_data",
   "File Path Attr": "rel_path",
   "Show Webpage?": "No",
-  "Web URL": ""
+    "Web URL": "",
+    "Tab Order": ["text", "pdf"]
 }
