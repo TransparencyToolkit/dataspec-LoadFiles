@@ -3,7 +3,7 @@
   "Ignore List": "",
   "ID Field": "rel_path",
   "Secondary ID": [],
-    "Deduplicate Ignore": [],
+    "Deduplicate Ignore": ["dataset_name", "dataset_name_facet", "search_terms", "search_terms_facet", "overall_tag", "overall_tag_facet"],
     "Deduplicate Prioritize": "",
   "Get ID After": ""
 }

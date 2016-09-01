@@ -5,9 +5,15 @@
 	"author",
 	"creator",
 	"producer",
-	"keywords"
+	"keywords",
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
   ],
     "Merge Categorical": [
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
     ],
     "Searchable": [
 	"text",
@@ -38,7 +44,10 @@
 	"subject",
 	"date",
 	"keywords",
-	"length"
+	"length",
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
 	],
     "In Search Results by Default": [
 	"text",
@@ -53,7 +62,10 @@
 	"subject",
 	"date",
 	"keywords",
-	"length"
+	"length",
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
   ],
     "On Doc Page": [
 	"text",
@@ -69,7 +81,10 @@
 	"subject",
 	"date",
 	"keywords",
-	"length"
+	"length",
+	"search_terms",
+	"dataset_name",
+	"overall_tag"
   ],
   "Item Field": [
   ],
