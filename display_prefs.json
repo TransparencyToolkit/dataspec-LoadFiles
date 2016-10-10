@@ -8,7 +8,8 @@
 	"keywords",
 	"search_terms",
 	"dataset_name",
-	"overall_tag"
+	"overall_tag",
+	"data_source"
   ],
     "Merge Categorical": [
 	"search_terms",
@@ -29,7 +30,8 @@
 	"subject",
 	"date",
 	"keywords",
-	"length"
+	"length",
+	"data_source"
 	],
     "In Search Results": [
 	"text",
@@ -47,7 +49,8 @@
 	"length",
 	"search_terms",
 	"dataset_name",
-	"overall_tag"
+	"overall_tag",
+	"data_source"
 	],
     "In Search Results by Default": [
 	"text",
@@ -65,7 +68,8 @@
 	"length",
 	"search_terms",
 	"dataset_name",
-	"overall_tag"
+	"overall_tag",
+	"data_source"
   ],
     "On Doc Page": [
 	"text",
@@ -84,7 +88,8 @@
 	"length",
 	"search_terms",
 	"dataset_name",
-	"overall_tag"
+	"overall_tag",
+	"data_source"
   ],
   "Item Field": [
   ],
